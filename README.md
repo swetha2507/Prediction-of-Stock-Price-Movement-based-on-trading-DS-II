@@ -6,7 +6,7 @@ The Raw Datasets that have been taken in this model creation were: Dataframe.csv
 **********************************************************
 BLUEPRINT AS PER TEAM -A,( open , high , low , close , profir/loss , max_profit , adj_close , volume)
 
->![image](https://drive.google.com/file/d/1EKsSTDsjaFSXlVAWIhmnH4Z893z9xj54/view)
+>![image](https://drive.google.com/file/d/1Pvw8qnIViuOW6gBZ8ywQvYrKQvoBQyLs/view?usp=sharing)
 
 
 Dataset description:
