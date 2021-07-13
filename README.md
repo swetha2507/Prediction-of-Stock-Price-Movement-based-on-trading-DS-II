@@ -1,6 +1,5 @@
 # Prediction-of-Stock-Price-Movement-based-on-trading-DS-II
 
-# Prediction-of-Stock-Price-Movement-based-on-trading-DS-II
 The Raw Datasets that have been taken in this model creation were: Dataframe.csv and MSFT.csv
 
 BLUEPRINT AS PER TEAM -B,( open , high , low , close , profir/loss , max_profit , adj_close , volume)
